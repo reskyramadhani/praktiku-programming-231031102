@@ -47,3 +47,6 @@
 
 * Percabangan 4: Persentasi
   `231031102-resky-percabangan4.py`
+
+* UTS : Struk kasir
+  `231031102-Perbaikan UTS.py`
